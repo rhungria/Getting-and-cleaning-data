@@ -1,7 +1,7 @@
 # Getting-and-cleaning-data - Final course project
 The purpose of this project is to demonstrate my ability to collect, work with, and clean a data set.
 
-I created an R script called run_analysis.R that does the following according to the instruction provided:
+I created an R script called run_analysis.R that does the following according to the instructions provided:
 
 1. Merges the training and the test sets to create one data set.
 2. Extracts only the measurements on the mean and standard deviation for each measurement.

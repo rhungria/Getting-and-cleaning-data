@@ -1,5 +1,5 @@
 # Getting-and-cleaning-data
-# Final course project
+Final course project
 # The purpose of this project is to demonstrate my ability to collect, work with, and clean a data set.
 
 # I created an R script called run_analysis.R that does the following:
